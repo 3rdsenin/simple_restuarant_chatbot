@@ -1,0 +1,21 @@
+[{
+        "name": "pizza",
+        "price": 50
+    },
+    {
+        "name": "Chicken Wrap",
+        "price": 90
+    },
+    {
+        "name": "Loaded Fries",
+        "price": 100
+    },
+    {
+        "name": " Grilled Chicken",
+        "price": 60
+    },
+    {
+        "name": "Caramelized Onions",
+        "price": 5
+    }
+]
